@@ -1,8 +1,5 @@
 #include <stdio.h>
 
-//Please Go Check Out Cano
-//https://github.com/CobbCoding1/Cano/tree/main
-
 int main() {
    int sm = 1;
 
